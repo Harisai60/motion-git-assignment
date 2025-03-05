@@ -1,0 +1,8 @@
+# Final-review of the Task
+
+- All the platforms created Jenkins profiles to createa pipeline.
+- Every platform jenkins created pipelines.
+- All branches has the documentation of the ssetup process.
+- Every Jenkins has successfully run the pipeline.
+
+              THANK YOU
